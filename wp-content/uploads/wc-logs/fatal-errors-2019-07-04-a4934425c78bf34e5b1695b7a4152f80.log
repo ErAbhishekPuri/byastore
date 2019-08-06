@@ -1,0 +1,14 @@
+2019-07-04T14:12:18+00:00 CRITICAL Uncaught PDFfiller\OAuth2\Client\Provider\Exceptions\TokenMissingException: Token is missing in /var/www/html/byastore/wp-content/plugins/pdf-forms/vendor/pdffiller/pdffiller-php-api-client/src/PDFfiller.php:202
+Stack trace:
+#0 /var/www/html/byastore/wp-content/plugins/pdf-forms/vendor/pdffiller/pdffiller-php-api-client/src/PDFfiller.php(229): PDFfiller\OAuth2\Client\Provider\PDFfiller->apiCall('POST', 'templates/0/', Array)
+#1 /var/www/html/byastore/wp-content/plugins/pdf-forms/vendor/pdffiller/pdffiller-php-api-client/src/Core/Model.php(185): PDFfiller\OAuth2\Client\Provider\PDFfiller->postApiCall('templates/0/', Array)
+#2 /var/www/html/byastore/wp-content/plugins/pdf-forms/vendor/pdffiller/pdffiller-php-api-client/src/Core/Model.php(247): PDFfiller\OAuth2\Client\Provider\Core\Model::apiCall(Object(PDFfiller\OAuth2\Client\Provider\PDFfiller), 'post', 'templates/0/', Array)
+#3 /var/www/html/byastore/wp-content/plugins/pdf-forms/vendor/pdffiller/pdffiller-php-api-client/src/Template.php(162): PDFfiller\OAuth2 in /var/www/html/byastore/wp-content/plugins/pdf-forms/vendor/pdffiller/pdffiller-php-api-client/src/PDFfiller.php on line 202
+
+2019-07-04T14:13:06+00:00 CRITICAL Uncaught PDFfiller\OAuth2\Client\Provider\Exceptions\TokenMissingException: Token is missing in /var/www/html/byastore/wp-content/plugins/pdf-forms/vendor/pdffiller/pdffiller-php-api-client/src/PDFfiller.php:202
+Stack trace:
+#0 /var/www/html/byastore/wp-content/plugins/pdf-forms/vendor/pdffiller/pdffiller-php-api-client/src/PDFfiller.php(229): PDFfiller\OAuth2\Client\Provider\PDFfiller->apiCall('POST', 'templates/0/', Array)
+#1 /var/www/html/byastore/wp-content/plugins/pdf-forms/vendor/pdffiller/pdffiller-php-api-client/src/Core/Model.php(185): PDFfiller\OAuth2\Client\Provider\PDFfiller->postApiCall('templates/0/', Array)
+#2 /var/www/html/byastore/wp-content/plugins/pdf-forms/vendor/pdffiller/pdffiller-php-api-client/src/Core/Model.php(247): PDFfiller\OAuth2\Client\Provider\Core\Model::apiCall(Object(PDFfiller\OAuth2\Client\Provider\PDFfiller), 'post', 'templates/0/', Array)
+#3 /var/www/html/byastore/wp-content/plugins/pdf-forms/vendor/pdffiller/pdffiller-php-api-client/src/Template.php(162): PDFfiller\OAuth2 in /var/www/html/byastore/wp-content/plugins/pdf-forms/vendor/pdffiller/pdffiller-php-api-client/src/PDFfiller.php on line 202
+

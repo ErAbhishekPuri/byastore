@@ -1,0 +1,66 @@
+
+POST
+
+WP_Post Object ( [ID] => 19937
+ [post_author] => 55
+  [post_date] => 2019-04-19 07:46:15
+   [post_date_gmt] => 2019-04-19 06:46:15 
+   [post_content] => 
+   [post_title] => New Job 
+   [post_excerpt] => 
+   [post_status] => booked 
+   [comment_status] => open 
+   [ping_status] => closed 
+   [post_password] => 
+   [post_name] => new-job-10068 
+   [to_ping] =>
+    [pinged] => 
+    [post_modified] => 2019-04-19 12:59:13 
+    [post_modified_gmt] => 2019-04-19 11:59:13 
+    [post_content_filtered] => 
+    [post_parent] => 0 
+    [guid] => https://courier-market.co.uk/listing/new-job-10068/
+    [menu_order] => 0 
+    [post_type] => listing_type 
+    [post_mime_type] => 
+    [comment_count] => 0 
+    [filter] => raw ) 
+
+
+
+BOOKING
+
+stdClass Object ( [booking_id] => 494
+ [member_id] => 1933 
+ [listing_id] => 19937 
+ [book_by] => 55 
+ [agreed_price] => 50.00
+  [payment_terms] => 30 days from invoice
+   [suggested_vehicle] => XLWB 
+   [pickup_post_code] => United Kingdom 
+   [dilivery_post_code] => United Kingdom
+    [pickup_latitude] => 55.378051 
+    [pickup_longitude] => -3.435973 
+    [dilivery_latitude] => 55.378051 
+    [dilivery_longitude] => -3.435973
+     [pickup_time] => 20/04/2019 12:58 
+     [dilivery_time] => 22/04/2019 12:58
+      [time_distance] => 1 ft,1 min 
+      [collection_company_name] => bsh
+       [collection_contact_name] => nsndns 
+       [collection_contact_no] => 87878787879 
+       [collection_address] => bandh 
+       [delivery_address] => Dbdjjdjd 
+       [delivery_company_name] => Bdbd
+        [delivery_contact_name] => bsjsns
+         [delivery_contact_no] => 8734431846
+          [additional_notes_booking] => 
+          [status] => 1
+           [date_time] => 2019-04-19 11:59:13 
+           [cancel_datetime] => 0000-00-00 00:00:00 
+           [post_status] => booked
+            [post_date] => 2019-04-19 07:46:15
+             [telephone_number] => 01213640863
+              [display_name] => Courier Market
+               [member_telephone_number] => 07366311207
+                [member_display_name] => Saulius Bugys )

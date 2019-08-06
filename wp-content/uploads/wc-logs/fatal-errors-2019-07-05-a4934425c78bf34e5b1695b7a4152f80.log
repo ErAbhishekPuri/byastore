@@ -1,0 +1,572 @@
+2019-07-05T08:46:07+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_metadata(), 1 passed in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 133 and at least 2 expected in /var/www/html/byastore/wp-includes/meta.php:488
+Stack trace:
+#0 /var/www/html/byastore/wp-content/themes/byatheme-new/header.php(133): get_metadata('Status')
+#1 /var/www/html/byastore/wp-includes/template.php(722): require_once('/var/www/html/b...')
+#2 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#3 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#5 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#6 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#7 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#8 {main}
+  thrown in /var/www/html/byastore/wp-includes/meta.php on line 488
+
+2019-07-05T08:46:10+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_metadata(), 1 passed in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 133 and at least 2 expected in /var/www/html/byastore/wp-includes/meta.php:488
+Stack trace:
+#0 /var/www/html/byastore/wp-content/themes/byatheme-new/header.php(133): get_metadata('Status')
+#1 /var/www/html/byastore/wp-includes/template.php(722): require_once('/var/www/html/b...')
+#2 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#3 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#5 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#6 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#7 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#8 {main}
+  thrown in /var/www/html/byastore/wp-includes/meta.php on line 488
+
+2019-07-05T08:46:46+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_metadata(), 1 passed in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 133 and at least 2 expected in /var/www/html/byastore/wp-includes/meta.php:488
+Stack trace:
+#0 /var/www/html/byastore/wp-content/themes/byatheme-new/header.php(133): get_metadata('Status')
+#1 /var/www/html/byastore/wp-includes/template.php(722): require_once('/var/www/html/b...')
+#2 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#3 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#5 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#6 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#7 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#8 {main}
+  thrown in /var/www/html/byastore/wp-includes/meta.php on line 488
+
+2019-07-05T08:46:49+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_metadata(), 1 passed in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 133 and at least 2 expected in /var/www/html/byastore/wp-includes/meta.php:488
+Stack trace:
+#0 /var/www/html/byastore/wp-content/themes/byatheme-new/header.php(133): get_metadata('Status')
+#1 /var/www/html/byastore/wp-includes/template.php(722): require_once('/var/www/html/b...')
+#2 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#3 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#5 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#6 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#7 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#8 {main}
+  thrown in /var/www/html/byastore/wp-includes/meta.php on line 488
+
+2019-07-05T08:46:49+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_metadata(), 1 passed in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 133 and at least 2 expected in /var/www/html/byastore/wp-includes/meta.php:488
+Stack trace:
+#0 /var/www/html/byastore/wp-content/themes/byatheme-new/header.php(133): get_metadata('Status')
+#1 /var/www/html/byastore/wp-includes/template.php(722): require_once('/var/www/html/b...')
+#2 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#3 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#5 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#6 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#7 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#8 {main}
+  thrown in /var/www/html/byastore/wp-includes/meta.php on line 488
+
+2019-07-05T08:46:49+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_metadata(), 1 passed in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 133 and at least 2 expected in /var/www/html/byastore/wp-includes/meta.php:488
+Stack trace:
+#0 /var/www/html/byastore/wp-content/themes/byatheme-new/header.php(133): get_metadata('Status')
+#1 /var/www/html/byastore/wp-includes/template.php(722): require_once('/var/www/html/b...')
+#2 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#3 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#5 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#6 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#7 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#8 {main}
+  thrown in /var/www/html/byastore/wp-includes/meta.php on line 488
+
+2019-07-05T08:46:49+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_metadata(), 1 passed in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 133 and at least 2 expected in /var/www/html/byastore/wp-includes/meta.php:488
+Stack trace:
+#0 /var/www/html/byastore/wp-content/themes/byatheme-new/header.php(133): get_metadata('Status')
+#1 /var/www/html/byastore/wp-includes/template.php(722): require_once('/var/www/html/b...')
+#2 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#3 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#5 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#6 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#7 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#8 {main}
+  thrown in /var/www/html/byastore/wp-includes/meta.php on line 488
+
+2019-07-05T08:46:49+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_metadata(), 1 passed in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 133 and at least 2 expected in /var/www/html/byastore/wp-includes/meta.php:488
+Stack trace:
+#0 /var/www/html/byastore/wp-content/themes/byatheme-new/header.php(133): get_metadata('Status')
+#1 /var/www/html/byastore/wp-includes/template.php(722): require_once('/var/www/html/b...')
+#2 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#3 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#5 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#6 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#7 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#8 {main}
+  thrown in /var/www/html/byastore/wp-includes/meta.php on line 488
+
+2019-07-05T08:46:50+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_metadata(), 1 passed in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 133 and at least 2 expected in /var/www/html/byastore/wp-includes/meta.php:488
+Stack trace:
+#0 /var/www/html/byastore/wp-content/themes/byatheme-new/header.php(133): get_metadata('Status')
+#1 /var/www/html/byastore/wp-includes/template.php(722): require_once('/var/www/html/b...')
+#2 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#3 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#5 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#6 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#7 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#8 {main}
+  thrown in /var/www/html/byastore/wp-includes/meta.php on line 488
+
+2019-07-05T08:46:50+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_metadata(), 1 passed in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 133 and at least 2 expected in /var/www/html/byastore/wp-includes/meta.php:488
+Stack trace:
+#0 /var/www/html/byastore/wp-content/themes/byatheme-new/header.php(133): get_metadata('Status')
+#1 /var/www/html/byastore/wp-includes/template.php(722): require_once('/var/www/html/b...')
+#2 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#3 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#5 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#6 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#7 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#8 {main}
+  thrown in /var/www/html/byastore/wp-includes/meta.php on line 488
+
+2019-07-05T08:46:50+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_metadata(), 1 passed in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 133 and at least 2 expected in /var/www/html/byastore/wp-includes/meta.php:488
+Stack trace:
+#0 /var/www/html/byastore/wp-content/themes/byatheme-new/header.php(133): get_metadata('Status')
+#1 /var/www/html/byastore/wp-includes/template.php(722): require_once('/var/www/html/b...')
+#2 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#3 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#5 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#6 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#7 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#8 {main}
+  thrown in /var/www/html/byastore/wp-includes/meta.php on line 488
+
+2019-07-05T08:46:50+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_metadata(), 1 passed in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 133 and at least 2 expected in /var/www/html/byastore/wp-includes/meta.php:488
+Stack trace:
+#0 /var/www/html/byastore/wp-content/themes/byatheme-new/header.php(133): get_metadata('Status')
+#1 /var/www/html/byastore/wp-includes/template.php(722): require_once('/var/www/html/b...')
+#2 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#3 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#5 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#6 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#7 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#8 {main}
+  thrown in /var/www/html/byastore/wp-includes/meta.php on line 488
+
+2019-07-05T08:46:50+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_metadata(), 1 passed in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 133 and at least 2 expected in /var/www/html/byastore/wp-includes/meta.php:488
+Stack trace:
+#0 /var/www/html/byastore/wp-content/themes/byatheme-new/header.php(133): get_metadata('Status')
+#1 /var/www/html/byastore/wp-includes/template.php(722): require_once('/var/www/html/b...')
+#2 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#3 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#5 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#6 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#7 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#8 {main}
+  thrown in /var/www/html/byastore/wp-includes/meta.php on line 488
+
+2019-07-05T08:46:51+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_metadata(), 1 passed in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 133 and at least 2 expected in /var/www/html/byastore/wp-includes/meta.php:488
+Stack trace:
+#0 /var/www/html/byastore/wp-content/themes/byatheme-new/header.php(133): get_metadata('Status')
+#1 /var/www/html/byastore/wp-includes/template.php(722): require_once('/var/www/html/b...')
+#2 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#3 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#5 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#6 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#7 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#8 {main}
+  thrown in /var/www/html/byastore/wp-includes/meta.php on line 488
+
+2019-07-05T08:46:51+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_metadata(), 1 passed in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 133 and at least 2 expected in /var/www/html/byastore/wp-includes/meta.php:488
+Stack trace:
+#0 /var/www/html/byastore/wp-content/themes/byatheme-new/header.php(133): get_metadata('Status')
+#1 /var/www/html/byastore/wp-includes/template.php(722): require_once('/var/www/html/b...')
+#2 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#3 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#5 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#6 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#7 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#8 {main}
+  thrown in /var/www/html/byastore/wp-includes/meta.php on line 488
+
+2019-07-05T08:46:51+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_metadata(), 1 passed in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 133 and at least 2 expected in /var/www/html/byastore/wp-includes/meta.php:488
+Stack trace:
+#0 /var/www/html/byastore/wp-content/themes/byatheme-new/header.php(133): get_metadata('Status')
+#1 /var/www/html/byastore/wp-includes/template.php(722): require_once('/var/www/html/b...')
+#2 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#3 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#5 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#6 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#7 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#8 {main}
+  thrown in /var/www/html/byastore/wp-includes/meta.php on line 488
+
+2019-07-05T08:46:51+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_metadata(), 1 passed in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 133 and at least 2 expected in /var/www/html/byastore/wp-includes/meta.php:488
+Stack trace:
+#0 /var/www/html/byastore/wp-content/themes/byatheme-new/header.php(133): get_metadata('Status')
+#1 /var/www/html/byastore/wp-includes/template.php(722): require_once('/var/www/html/b...')
+#2 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#3 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#5 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#6 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#7 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#8 {main}
+  thrown in /var/www/html/byastore/wp-includes/meta.php on line 488
+
+2019-07-05T08:46:51+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_metadata(), 1 passed in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 133 and at least 2 expected in /var/www/html/byastore/wp-includes/meta.php:488
+Stack trace:
+#0 /var/www/html/byastore/wp-content/themes/byatheme-new/header.php(133): get_metadata('Status')
+#1 /var/www/html/byastore/wp-includes/template.php(722): require_once('/var/www/html/b...')
+#2 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#3 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#5 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#6 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#7 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#8 {main}
+  thrown in /var/www/html/byastore/wp-includes/meta.php on line 488
+
+2019-07-05T08:46:52+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_metadata(), 1 passed in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 133 and at least 2 expected in /var/www/html/byastore/wp-includes/meta.php:488
+Stack trace:
+#0 /var/www/html/byastore/wp-content/themes/byatheme-new/header.php(133): get_metadata('Status')
+#1 /var/www/html/byastore/wp-includes/template.php(722): require_once('/var/www/html/b...')
+#2 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#3 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#5 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#6 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#7 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#8 {main}
+  thrown in /var/www/html/byastore/wp-includes/meta.php on line 488
+
+2019-07-05T08:46:52+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_metadata(), 1 passed in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 133 and at least 2 expected in /var/www/html/byastore/wp-includes/meta.php:488
+Stack trace:
+#0 /var/www/html/byastore/wp-content/themes/byatheme-new/header.php(133): get_metadata('Status')
+#1 /var/www/html/byastore/wp-includes/template.php(722): require_once('/var/www/html/b...')
+#2 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#3 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#5 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#6 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#7 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#8 {main}
+  thrown in /var/www/html/byastore/wp-includes/meta.php on line 488
+
+2019-07-05T10:10:44+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:188
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 188
+
+2019-07-05T10:10:49+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:188
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 188
+
+2019-07-05T10:11:21+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:184
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 184
+
+2019-07-05T10:11:24+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:184
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/404.php(12): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 184
+
+2019-07-05T10:11:24+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:184
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/404.php(12): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 184
+
+2019-07-05T10:11:28+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:184
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 184
+
+2019-07-05T10:11:28+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:184
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/404.php(12): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 184
+
+2019-07-05T10:11:28+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:184
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/404.php(12): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 184
+
+2019-07-05T10:14:10+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:189
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 189
+
+2019-07-05T10:14:11+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:189
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/404.php(12): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 189
+
+2019-07-05T10:14:11+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:189
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/404.php(12): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 189
+
+2019-07-05T10:15:08+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:189
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 189
+
+2019-07-05T10:15:08+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:189
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/404.php(12): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 189
+
+2019-07-05T10:15:08+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:189
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/404.php(12): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 189
+
+2019-07-05T10:15:10+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:189
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 189
+
+2019-07-05T10:15:10+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:189
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/404.php(12): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 189
+
+2019-07-05T10:15:10+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:189
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/404.php(12): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 189
+
+2019-07-05T10:15:15+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:189
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 189
+
+2019-07-05T10:15:15+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:189
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/404.php(12): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 189
+
+2019-07-05T10:15:15+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:189
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/404.php(12): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 189
+
+2019-07-05T10:15:15+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:189
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 189
+
+2019-07-05T10:15:16+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:189
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/404.php(12): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 189
+
+2019-07-05T10:15:16+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:189
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/404.php(12): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 189
+
+2019-07-05T10:15:16+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:189
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/front-page.php(2): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 189
+
+2019-07-05T10:15:16+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:189
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/404.php(12): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 189
+
+2019-07-05T10:15:16+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php:189
+Stack trace:
+#0 /var/www/html/byastore/wp-includes/template.php(722): require_once()
+#1 /var/www/html/byastore/wp-includes/template.php(671): load_template('/var/www/html/b...', true)
+#2 /var/www/html/byastore/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /var/www/html/byastore/wp-content/themes/byatheme-new/404.php(12): get_header()
+#4 /var/www/html/byastore/wp-includes/template-loader.php(78): include('/var/www/html/b...')
+#5 /var/www/html/byastore/wp-blog-header.php(19): require_once('/var/www/html/b...')
+#6 /var/www/html/byastore/index.php(17): require('/var/www/html/b...')
+#7 {main}
+  thrown in /var/www/html/byastore/wp-content/themes/byatheme-new/header.php on line 189
+

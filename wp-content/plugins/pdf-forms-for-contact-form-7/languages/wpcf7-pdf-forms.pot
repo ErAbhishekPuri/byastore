@@ -1,0 +1,463 @@
+# Copyright (C) 2019 PDF Forms Filler for Contact Form 7
+# This file is distributed under the same license as the PDF Forms Filler for Contact Form 7 package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PDF Forms Filler for Contact Form 7 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/pdf-forms-for-"
+"contact-form-7/\n"
+"POT-Creation-Date: 2019-02-12 11:00:47+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: modules/pdf-ninja.php:40
+msgid "Pdf.Ninja API"
+msgstr ""
+
+#: modules/pdf-ninja.php:94 modules/pdf-ninja.php:943
+msgid ""
+"Failed to get the Pdf.Ninja API key on last attempt.  Please retry manually."
+msgstr ""
+
+#: modules/pdf-ninja.php:122
+msgid "Failed to determine the current user."
+msgstr ""
+
+#: modules/pdf-ninja.php:126
+msgid "Failed to determine the current user's email address."
+msgstr ""
+
+#: modules/pdf-ninja.php:249
+msgid "PHP version 5.3 or higher is required."
+msgstr ""
+
+#: modules/pdf-ninja.php:255
+msgid "Windows platform is not supported."
+msgstr ""
+
+#: modules/pdf-ninja.php:261
+msgid "PHP safe mode is not supported."
+msgstr ""
+
+#: modules/pdf-ninja.php:269
+msgid "PHP execute functions (exec, proc_open, proc_close) are disabled."
+msgstr ""
+
+#: modules/pdf-ninja.php:291
+msgid "Chroot environments are not supported"
+msgstr ""
+
+#: modules/pdf-ninja.php:299
+msgid "Required binaries are not available on this platform."
+msgstr ""
+
+#: modules/pdf-ninja.php:317 modules/pdf-ninja.php:375
+msgid "Failed to get API server response"
+msgstr ""
+
+#: modules/pdf-ninja.php:326 modules/pdf-ninja.php:384
+msgid "Failed to decode API server response"
+msgstr ""
+
+#: modules/pdf-ninja.php:334 modules/pdf-ninja.php:392
+msgid "Failed to download a file from the API server"
+msgstr ""
+
+#: modules/pdf-ninja.php:419 modules/pdf-ninja.php:547
+#: modules/pdf-ninja.php:566 modules/pdf-ninja.php:608
+#: modules/pdf-ninja.php:722 modules/pdf-ninja.php:752
+msgid "Pdf.Ninja API server did not send an expected response"
+msgstr ""
+
+#: modules/pdf-ninja.php:473 wpcf7-pdf-forms.php:795 wpcf7-pdf-forms.php:1218
+msgid "File not found"
+msgstr ""
+
+#: modules/pdf-ninja.php:613 modules/pdf-ninja.php:727
+#: modules/pdf-ninja.php:757 wpcf7-pdf-forms.php:467
+msgid "Failed to open file for writing"
+msgstr ""
+
+#: modules/pdf-ninja.php:619 modules/pdf-ninja.php:733
+#: modules/pdf-ninja.php:763 wpcf7-pdf-forms.php:473
+msgid "Failed to create file"
+msgstr ""
+
+#: modules/pdf-ninja.php:657 modules/pdf-ninja.php:661
+msgid "Failed to encode JSON data"
+msgstr ""
+
+#: modules/pdf-ninja.php:798 wpcf7-pdf-forms.php:729 wpcf7-pdf-forms.php:1076
+#: wpcf7-pdf-forms.php:1260
+msgid "Permission denied"
+msgstr ""
+
+#: modules/pdf-ninja.php:855
+msgid ""
+"This service provides functionality for working with PDF files via a web API."
+msgstr ""
+
+#: modules/pdf-ninja.php:856 modules/pdf-ninja.php:895
+msgid "API Key"
+msgstr ""
+
+#: modules/pdf-ninja.php:858
+msgid "copy key"
+msgstr ""
+
+#: modules/pdf-ninja.php:859
+msgid "copied!"
+msgstr ""
+
+#: modules/pdf-ninja.php:860 modules/pdf-ninja.php:897
+msgid "API URL"
+msgstr ""
+
+#: modules/pdf-ninja.php:862 modules/pdf-ninja.php:899
+msgid "Data Security"
+msgstr ""
+
+#: modules/pdf-ninja.php:863 modules/pdf-ninja.php:900
+msgid "Ignore certificate verification errors"
+msgstr ""
+
+#: modules/pdf-ninja.php:865 modules/pdf-ninja.php:902
+msgid ""
+"Warning: Using plain HTTP or disabling certificate verification can lead to "
+"data leaks."
+msgstr ""
+
+#: modules/pdf-ninja.php:866
+msgid "Enterprise Extension"
+msgstr ""
+
+#: modules/pdf-ninja.php:867
+msgid "Extension is supported."
+msgstr ""
+
+#: modules/pdf-ninja.php:867
+msgid "Extension is not supported."
+msgstr ""
+
+#: modules/pdf-ninja.php:868 modules/pdf-ninja.php:881
+msgid "Edit"
+msgstr ""
+
+#: modules/pdf-ninja.php:879
+msgid "Error!"
+msgstr ""
+
+#: modules/pdf-ninja.php:894
+msgid "The following form allows you to edit your API key."
+msgstr ""
+
+#: modules/pdf-ninja.php:905
+msgid "Save"
+msgstr ""
+
+#: modules/pdf-ninja.php:906
+msgid "Get New Key"
+msgstr ""
+
+#: modules/pdf-ninja.php:917 modules/pdf-ninja.php:923
+msgid "PDF Forms for CF7 plugin error"
+msgstr ""
+
+#: modules/pdf-ninja.php:918
+msgid "Can't save new key."
+msgstr ""
+
+#: modules/pdf-ninja.php:929
+msgid "Settings saved."
+msgstr ""
+
+#: modules/pdf-ninja.php:942 wpcf7-pdf-forms.php:168
+msgid "PDF Forms Filler for CF7 plugin error"
+msgstr ""
+
+#: modules/pdf-ninja.php:958
+msgid ""
+"Warning: Your integration settings indicate you are using an insecure "
+"connection to the Pdf.Ninja API server."
+msgstr ""
+
+#: modules/service.php:7 modules/service.php:12 modules/service.php:17
+#: modules/service.php:22 modules/service.php:27
+msgid "Missing feature"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:155
+msgid "Tutorial Video"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:156
+msgid "Support"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:169
+msgid "The required plugin 'Contact Form 7' is not installed!"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:226
+msgid "File not specified"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:227
+msgid "Unknown error"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:228
+msgid "Please copy/paste tags manually"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:229
+msgid ""
+"Are you sure you want to delete this file?  This will delete field mappings "
+"and image embeds associated with this file."
+msgstr ""
+
+#: wpcf7-pdf-forms.php:230
+msgid "Are you sure you want to delete this mapping?"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:231
+msgid "Are you sure you want to delete this embeded image?"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:232 wpcf7-pdf-forms.php:1389
+msgid "Show Help"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:233 wpcf7-pdf-forms.php:1390
+msgid "Hide Help"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:254
+msgid "PDF Forms"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:460
+msgid "Failed to download file"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:687
+msgid ""
+"Error generating PDF: {error-message} at {error-file}:{error-line}\n"
+"\n"
+"Form data:\n"
+"\n"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:726 wpcf7-pdf-forms.php:959 wpcf7-pdf-forms.php:1067
+#: wpcf7-pdf-forms.php:1171 wpcf7-pdf-forms.php:1251
+msgid "Nonce mismatch"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:736
+msgid "Invalid file type, must be a PDF file"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:833
+msgid "No service"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:977
+msgid ""
+"This PDF file does not appear to contain a PDF form.  See https://acrobat."
+"adobe.com/us/en/acrobat/how-to/create-fillable-pdf-forms-creator.html for "
+"more information."
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1073
+msgid "Invalid post ID"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1142
+msgid "Failed to get Contact Form fields"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1257
+msgid "Invalid page number"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1266
+msgid "Failed to retrieve page snapshot"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1292 wpcf7-pdf-forms.php:1301
+msgid "PDF Form"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1351
+msgid ""
+"You can use this tag generator to attach a PDF file to your form, insert "
+"tags into your form and link them to fields in the PDF file.  You can also "
+"embed images (generated by other Contact Form 7 tags or fields) into the PDF "
+"file.  Changes here are applied when the contact form is saved."
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1352
+msgid "Upload & Attach a PDF File"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1353
+msgid "Insert Tags"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1354
+msgid "Insert and Link"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1355
+msgid ""
+"This button allows you to generate tags for all remaining unlinked PDF "
+"fields, insert them into the form and link them to their corresponding "
+"fields."
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1356
+msgid "Insert & Link All"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1357 wpcf7-pdf-forms.php:1376
+msgid "Delete"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1358
+msgid "Options"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1359
+msgid "Skip when empty"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1360
+msgid "Attach to primary email message"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1361
+msgid "Attach to secondary email message"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1362
+msgid "Flatten"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1363
+msgid "Filename (mail-tags can be used)"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1364
+msgid "Field Mapper Tool"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1365
+msgid ""
+"This tool can be used to link Contact Form 7 fields with fields within the "
+"PDF files.  Contact Form 7 fields can also be generated.  When the user "
+"submits the form, data from Contact Form 7 fields will be inserted into "
+"correspoinding fields in the PDF file."
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1366
+msgid "PDF field"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1367
+msgid "CF7 field"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1368
+msgid "Add Mapping"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1369
+msgid "Delete All"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1370
+msgid "New Tag:"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1371
+msgid "Tag Generator Tool (deprecated)"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1372
+msgid ""
+"This tool allows one to create CF7 fields that are linked to PDF fields by "
+"name.  This feature is deprecated in favor of the field mapper tool."
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1373
+msgid "Image Embedding Tool"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1374
+msgid ""
+"This tool allows embedding images into PDF files.  Images are taken from "
+"field attachments or field values that are URLs.  You must select a PDF "
+"file, its page and draw a bounding box for image insertion."
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1375
+msgid "Embed Image"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1377
+msgid "PDF file"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1378
+msgid "Page"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1379
+msgid "Select a region where the image needs to be embeded."
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1387
+msgid ""
+"Have a question/comment/problem?  Feel free to use {a-href-forum}the support "
+"forum{/a} and view {a-href-tutorial}the tutorial video{/a}."
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1391
+msgid "Get Tags"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1392
+msgid "All PDFs"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1393
+msgid "Return to Form"
+msgstr ""
+
+#: wpcf7-pdf-forms.php:1398
+msgid "Your CF7 plugin is too out of date, please upgrade."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PDF Forms Filler for Contact Form 7"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/maximum-software/wpcf7-pdf-forms"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Create Contact Form 7 forms from PDF forms.  Get PDF forms filled "
+"automatically and attached to email messages upon form submission on your "
+"website.  Embed images in PDF files.  Uses Pdf.Ninja API for working with "
+"PDF files.  See tutorial video for a demo."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Maximum.Software"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://maximum.software/"
+msgstr ""

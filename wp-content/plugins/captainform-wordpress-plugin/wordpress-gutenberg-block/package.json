@@ -1,0 +1,14 @@
+{
+	"name": "captainform-gutenberg-block",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"start": "node scripts/captainform-start.js && cgb-scripts start",
+		"build": "cgb-scripts build && node scripts/captainform-build.js",
+		"eject": "cgb-scripts eject"
+	},
+	"dependencies": {
+		"@wordpress/compose": "^3.0.1",
+		"cgb-scripts": "1.14.0"
+	}
+}

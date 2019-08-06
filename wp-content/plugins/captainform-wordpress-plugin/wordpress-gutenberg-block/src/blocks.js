@@ -1,0 +1,1 @@
+import './block/block_cpf.js';
